@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Differentiall Research Initiative</title>
+		<link rel="stylesheet" href="index.css" />
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap" rel="stylesheet" />
+	</head>
+	<body>
+		<main>
+			<div class="content">
+				<div>Differentiall is a research initiative.</div>
+				<div>We sketch portraits of science and humanities using media arts.</div>
+				<div>We strive for exceptional storytelling.</div>
+				<div>We communicate scientific research & cultural concepts to mobilize resources for pressing global challenges.</div>
+				<div>
+					In conversations with scientists, innovators, and policy makers, we glance at the future through the lens that researchers and practitioners
+					across disciplines create with passion, conviction, and mastery of their field.
+				</div>
+				<div>We aim to explore solutions to currently overlooked challenges affecting our future that remain unsolved today.</div>
+			</div>
+		</main>
+	</body>
+</html>
